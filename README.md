@@ -1,2 +1,6 @@
 # SaloniRajput
-👋 Hi, I'm Saloni Singh Rajput, an MCA student and aspiring software developer.   💻 Passionate about programming, problem-solving, and building real-world projects.   📚 Actively learning new technologies and strengthening my core CS concepts. always happy to connect and collaborate!
+👋 Hi, I'm Saloni Singh Rajput, Motivated by coding challenges and bringing innovative projects to life.
+🎓 MCA Student | Aspiring Software Developer | Tech Enthusiast  
+💻 Exploring **Python, Java, Web Development, and Machine Learning**  
+🚀 Passionate about solving problems, building projects, and learning new technologies  
+📚 Always spending time improving my coding skills and understanding computer science concepts  
